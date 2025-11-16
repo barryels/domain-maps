@@ -7,4 +7,4 @@ title: Home
 
 - [Home](/)
   - Domains
-    - [Animal Health](/domains/animal-health)
+    {% include "./partials/domains-nav.njk" %}

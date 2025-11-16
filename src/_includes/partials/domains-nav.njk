@@ -1,0 +1,5 @@
+<ul>
+  {%- for domain in collections.domain -%}
+    <li><a href="{{ domain.url }}">{{ domain.data.title }}</a></li>
+  {%- endfor -%}
+<ul>

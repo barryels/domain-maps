@@ -1,6 +1,8 @@
 ---
 layout: layouts/base.njk
-title: Animal Health
+title: Veterinary Practice
+tags:
+  - domain
 ---
 
 # {{ title }}
